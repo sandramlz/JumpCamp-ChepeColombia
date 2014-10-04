@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 22eca2410bb4bad4caa128f08af5b29c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lloronasprites_0
+    21300002: Lloronasprites_1
+    21300004: Lloronasprites_2
+    21300006: Lloronasprites_3
+    21300008: Lloronasprites_4
+    21300010: Lloronasprites_5
+    21300012: Lloronasprites_6
+    21300014: Lloronasprites_7
+    21300016: Lloronasprites_8
+    21300018: Lloronasprites_9
+    21300020: Lloronasprites_10
+    21300022: Lloronasprites_11
+    21300024: Lloronasprites_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Lloronasprites_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 792
+        width: 120
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lloronasprites_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 792
+        width: 120
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lloronasprites_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 792
+        width: 120
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lloronasprites_3
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 792
+        width: 120
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lloronasprites_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 538
+        width: 120
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lloronasprites_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 538
+        width: 120
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lloronasprites_6
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 538
+        width: 120
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lloronasprites_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 536
+        width: 120
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lloronasprites_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 351
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lloronasprites_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 24
+        width: 120
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lloronasprites_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 24
+        width: 120
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lloronasprites_11
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 24
+        width: 120
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lloronasprites_12
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 26
+        width: 120
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

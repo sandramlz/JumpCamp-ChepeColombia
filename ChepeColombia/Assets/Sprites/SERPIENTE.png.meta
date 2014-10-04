@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: bb1834cd675d6e546868bc22907141d4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SERPIENTE_0
+    21300002: SERPIENTE_1
+    21300004: SERPIENTE_2
+    21300006: SERPIENTE_3
+    21300008: SERPIENTE_4
+    21300010: SERPIENTE_5
+    21300012: SERPIENTE_6
+    21300014: SERPIENTE_7
+    21300016: SERPIENTE_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SERPIENTE_0
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 848
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SERPIENTE_1
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 846
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SERPIENTE_2
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 844
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SERPIENTE_3
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 829
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SERPIENTE_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 391
+        width: 246
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SERPIENTE_5
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 389
+        width: 283
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SERPIENTE_6
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 387
+        width: 311
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SERPIENTE_7
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 578
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SERPIENTE_8
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 372
+        width: 370
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
