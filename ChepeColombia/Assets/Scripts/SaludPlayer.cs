@@ -15,6 +15,8 @@ public class SaludPlayer : MonoBehaviour {
 
 
 
+
+
 	void Awake () 
 	{
 		vidasperdidas=PlayerPrefs.GetInt("vidasperdidas");
@@ -33,7 +35,6 @@ public class SaludPlayer : MonoBehaviour {
 		}
 
 	}
-
 
 	public void MuereAventurero()
 	{
@@ -58,4 +59,6 @@ public class SaludPlayer : MonoBehaviour {
 		Debug.Log(vidasperdidas);
 		Application.LoadLevel ("Nivel1");
 	}
+
+
 }

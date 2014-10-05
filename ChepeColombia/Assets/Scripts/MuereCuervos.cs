@@ -5,6 +5,12 @@ public class MuereCuervos : MonoBehaviour {
 
 	private AnimacionesCuervos animarCuervo;
 	private bool muerto;
+	private int score;
+
+	void Awake () 
+	{
+		score = PlayerPrefs.GetInt ("score");
+	}
 
 	// Use this for initialization
 	void Start () {
@@ -14,7 +20,7 @@ public class MuereCuervos : MonoBehaviour {
 	}
 
 	void Update(){
-	
+		score = PlayerPrefs.GetInt ("score");
 		CuervoAlSuelo ();
 
 	}
@@ -23,6 +29,9 @@ public class MuereCuervos : MonoBehaviour {
 
 		//Destroy (gameObject);
 		muerto = true;
+		score += 5;
+		PlayerPrefs.SetInt("score", score);
+
 		animarCuervo.Muere ();
 
 	}

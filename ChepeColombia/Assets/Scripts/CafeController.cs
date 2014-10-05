@@ -21,7 +21,7 @@ public class CafeController : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D col)
 	{
-		score += 3;
+		score += 1;
 		PlayerPrefs.SetInt("score", score);
 		Destroy(this.gameObject);
 		Debug.Log(score);

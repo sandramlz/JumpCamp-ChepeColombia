@@ -24,14 +24,16 @@ public class Player : MonoBehaviour {
 	private Vector3 PosicionBala;
 	private float BalaEnX;
 	private float BalaEnY;
-		
+
+	public GameObject dialogo;
+
 	void Awake(){
 		animator = GetComponent<Animator>();
 	}
 	
 	// Use this for initialization
 	void Start () {
-		
+
 	}
 	
 	void FixedUpdate(){
@@ -47,9 +49,13 @@ public class Player : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
+		Destroy (dialogo.gameObject, 3.0f);
+
+
 		if((enSuelo || !dobleSalto) && Input.GetKey (KeyCode.UpArrow)){
 
-			rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x+0.5f, fuerzaSalto);
+			rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x+1f, fuerzaSalto);
 
 			if(!dobleSalto && !enSuelo){
 				dobleSalto = true;

@@ -15,7 +15,7 @@ public class MuereSerpientes : MonoBehaviour {
 	void OnCollisionEnter2D(Collision2D objeto){
 
 		Destroy (gameObject);
-		score += 8;
+		score += 3;
 		PlayerPrefs.SetInt("score", score);
 
 	}
