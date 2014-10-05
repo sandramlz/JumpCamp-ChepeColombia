@@ -26,6 +26,8 @@ public class Player : MonoBehaviour {
 	private float BalaEnY;
 
 	public GameObject dialogo;
+	public GameObject dialogo2;
+	private float time = 0;
 
 	void Awake(){
 		animator = GetComponent<Animator>();
@@ -51,6 +53,15 @@ public class Player : MonoBehaviour {
 	void Update () {
 
 		Destroy (dialogo.gameObject, 3.0f);
+		dialogo2.gameObject.active = false;
+
+		if (time < 3.1) {
+				time = time + Time.deltaTime;
+		} 
+		else if (time >= 3.1) {
+			dialogo2.gameObject.active = true;
+				}
+
 
 
 		if((enSuelo || !dobleSalto) && Input.GetKey (KeyCode.UpArrow)){

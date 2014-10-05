@@ -57,6 +57,7 @@
      <Compile Include="Assets\Scripts\CrearCuervos.cs" />
      <Compile Include="Assets\Scripts\CrearSerpientes.cs" />
      <Compile Include="Assets\Scripts\Creditos.cs" />
+     <Compile Include="Assets\Scripts\Llorona.cs" />
      <Compile Include="Assets\Scripts\MoverSerpientes.cs" />
      <Compile Include="Assets\Scripts\MuereCuervos.cs" />
      <Compile Include="Assets\Scripts\MuereSerpientes.cs" />
