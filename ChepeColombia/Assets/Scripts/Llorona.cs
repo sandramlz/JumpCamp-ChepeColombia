@@ -8,18 +8,19 @@ public class Llorona : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+		dialogo3.gameObject.active = false;
+		dialogo4.gameObject.active = false;
+
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		dialogo3.gameObject.active = false;
-		dialogo4.gameObject.active = false;
 		time = time + Time.deltaTime;
 	}
 
-	void OnTriggerEnter2D(Collider2D objeto){
+	void OnTriggerEnter2D(Collider2D col){
 		dialogo3.gameObject.active = true;
+		Debug.Log("Entro");
 	}
 
 }
