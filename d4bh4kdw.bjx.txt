@@ -1,0 +1,134 @@
+﻿Merge remote-tracking branch 'origin/master'
+
+Conflicts:
+	ChepeColombia/Library/CurrentLayout.dwlt
+	ChepeColombia/Library/ScriptAssemblies/Assembly-CSharp.dll
+	ChepeColombia/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 1 and 1 different commit each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   ChepeColombia/Assembly-CSharp-vs.csproj
+#	modified:   ChepeColombia/Assembly-CSharp.csproj
+#	modified:   ChepeColombia/Assets/Sprites/Ball.png.meta
+#	modified:   "ChepeColombia/Assets/Sprites/Caf\303\251.png.meta"
+#	modified:   ChepeColombia/Assets/Sprites/fondo nuevo.png.meta
+#	modified:   ChepeColombia/Assets/Sprites/nido jaguar.png.meta
+#	modified:   ChepeColombia/Assets/Sprites/zona llorona.png.meta
+#	modified:   ChepeColombia/ChepeColombia-csharp.sln
+#	modified:   ChepeColombia/ChepeColombia.sln
+#	modified:   ChepeColombia/Library/AssetServerCacheV3
+#	modified:   ChepeColombia/Library/ScriptMapper
+#	modified:   ChepeColombia/Library/assetDatabase3
+#	modified:   ChepeColombia/Library/expandedItems
+#	modified:   ChepeColombia/Library/guidmapper
+#	modified:   ChepeColombia/Library/metadata/00/00000000000000002000000000000000
+#	modified:   ChepeColombia/Library/metadata/00/00000000000000003000000000000000
+#	modified:   ChepeColombia/Library/metadata/00/00000000000000004000000000000000
+#	modified:   ChepeColombia/Library/metadata/00/00000000000000004100000000000000
+#	modified:   ChepeColombia/Library/metadata/00/00000000000000005000000000000000
+#	modified:   ChepeColombia/Library/metadata/00/00000000000000005100000000000000
+#	modified:   ChepeColombia/Library/metadata/00/00000000000000006000000000000000
+#	modified:   ChepeColombia/Library/metadata/00/00000000000000006100000000000000
+#	modified:   ChepeColombia/Library/metadata/00/00000000000000007000000000000000
+#	modified:   ChepeColombia/Library/metadata/00/00000000000000008000000000000000
+#	modified:   ChepeColombia/Library/metadata/00/00000000000000009000000000000000
+#	modified:   ChepeColombia/Library/metadata/00/0000000000000000a000000000000000
+#	modified:   ChepeColombia/Library/metadata/00/0000000000000000b000000000000000
+#	modified:   ChepeColombia/Library/metadata/00/0000000000000000c000000000000000
+#	modified:   ChepeColombia/Library/metadata/01/01b69142af69de14f93b5995ee5c87c1
+#	modified:   ChepeColombia/Library/metadata/04/0409d8a027f29904683028bb10940359
+#	modified:   ChepeColombia/Library/metadata/05/05430e04fca4e4649b883866acc13f54
+#	modified:   ChepeColombia/Library/metadata/0d/0de1582dda804844b99abaf6aeb50e50
+#	modified:   ChepeColombia/Library/metadata/0e/0e552a93ec672d0498d6b179014751bc
+#	modified:   ChepeColombia/Library/metadata/1d/1dfbb4f5bf9f8214392fb3fcd6a9fe0d
+#	modified:   ChepeColombia/Library/metadata/1e/1e0a8063bab1b344aa1570568276df38
+#	modified:   ChepeColombia/Library/metadata/22/22eca2410bb4bad4caa128f08af5b29c
+#	modified:   ChepeColombia/Library/metadata/23/23cc32de6300e914cb699ee6ca2bbf33
+#	modified:   ChepeColombia/Library/metadata/26/2671aed264c4b244ba8a88e33149013c
+#	modified:   ChepeColombia/Library/metadata/29/29f17216b130af743b3d1343b6371c75
+#	modified:   ChepeColombia/Library/metadata/2a/2a75d460f1bd9454ca66878b34587c69
+#	modified:   ChepeColombia/Library/metadata/2b/2b53644a1f0dc3943b087deffedd3339
+#	modified:   ChepeColombia/Library/metadata/2e/2e82b63e7d4f0bf488628adce0c87ed1
+#	modified:   ChepeColombia/Library/metadata/31/3120b87e81386bc47a78d0b0d438b1f5
+#	modified:   ChepeColombia/Library/metadata/33/333319f6b43be50459482959010ed268
+#	modified:   ChepeColombia/Library/metadata/33/33ee7373eed7f7f4facf32f3fbeb19a3
+#	modified:   ChepeColombia/Library/metadata/35/356303f8347ce074eadd002ef005dd3d
+#	modified:   ChepeColombia/Library/metadata/37/372bb0036e566b744b5b3bdb5a3ae30c
+#	modified:   ChepeColombia/Library/metadata/39/39b7f980c0955a84ea1b73d9d6b99329
+#	modified:   ChepeColombia/Library/metadata/3f/3f4db43e9a403e148b5fbb03a0d373dd
+#	modified:   ChepeColombia/Library/metadata/3f/3fc6124a67ef1d24289a1a0b6440f72d
+#	modified:   ChepeColombia/Library/metadata/43/438bc70180517454fb7141d764e06116
+#	modified:   ChepeColombia/Library/metadata/46/46b5aaab0dec6424386c54c877a04c8a
+#	modified:   ChepeColombia/Library/metadata/47/47135d40af62ee24ea115257adf56bd8
+#	modified:   ChepeColombia/Library/metadata/47/47a2f280313a4cd40899cd57e385a285
+#	modified:   ChepeColombia/Library/metadata/4e/4e6c367592690fb43b271cf02fda2d2c
+#	modified:   ChepeColombia/Library/metadata/5b/5b92728493892f2449724eebdf0e7954
+#	modified:   ChepeColombia/Library/metadata/5e/5ef0ba83c05786e4c9ddcc86454efa62
+#	modified:   ChepeColombia/Library/metadata/5f/5f8f415b691a8d54e83fd06be75c9e15
+#	modified:   ChepeColombia/Library/metadata/62/6253cf301083f254e8457ff47dc87b92
+#	modified:   ChepeColombia/Library/metadata/62/6299624a3130dc3409aba4c86151e58c
+#	modified:   ChepeColombia/Library/metadata/66/6664db91118be9049b77e7b66813fb61
+#	modified:   ChepeColombia/Library/metadata/6c/6c3aa1bb1c5834e4eada9cd30ee796cd
+#	modified:   ChepeColombia/Library/metadata/6e/6edc429b08fe0bd4db687b56c5746192
+#	modified:   ChepeColombia/Library/metadata/6f/6fb6db3e2719c8c41b46b137b9eca920
+#	modified:   ChepeColombia/Library/metadata/70/707637950d81f8e4abf9e1fece76b18b
+#	modified:   ChepeColombia/Library/metadata/7d/7d5dd0c1c819d934c9ae3dac8baf2241
+#	modified:   ChepeColombia/Library/metadata/80/80d02aa4838509247b2647e94d091ef2
+#	modified:   ChepeColombia/Library/metadata/81/811479b49cff55447a60e7c831eecdb7
+#	modified:   ChepeColombia/Library/metadata/83/836212f18be1ea14d89b146b5438eda3
+#	modified:   ChepeColombia/Library/metadata/85/850364f4bc4debe4cb53009c2414334f
+#	modified:   ChepeColombia/Library/metadata/86/867097813ca520d4ba786e8beb35e8cc
+#	modified:   ChepeColombia/Library/metadata/87/8716706812462fd4ebb38c97f642c61b
+#	modified:   ChepeColombia/Library/metadata/91/917b1fbc3dd9d5b418fc34e284db2887
+#	modified:   ChepeColombia/Library/metadata/94/94cb3d2b5becd14428e0caf30970e183
+#	modified:   ChepeColombia/Library/metadata/97/97151d2ff444e524d880837c7d8a742a
+#	modified:   ChepeColombia/Library/metadata/99/99278a930fbde764aa36661128adff54
+#	modified:   ChepeColombia/Library/metadata/9a/9a009adf2f5a00247b78d1091b84c01d
+#	modified:   ChepeColombia/Library/metadata/9a/9ad7ffa6839ef0b48b96c511f180db75
+#	modified:   ChepeColombia/Library/metadata/a0/a0d1943e9bfc0c64ead2a779dd4cceef
+#	modified:   ChepeColombia/Library/metadata/a2/a2e2c39474d368e40858c3c505a6dff9
+#	modified:   ChepeColombia/Library/metadata/a2/a2f351dc73060ff48adac5cb131568a6
+#	modified:   ChepeColombia/Library/metadata/aa/aa10a136f9e203c4dbeeb95cd4fd40e8
+#	modified:   ChepeColombia/Library/metadata/b2/b21a14d1b69b4f84ab8f9f5c85d0dc7e
+#	modified:   ChepeColombia/Library/metadata/b3/b317635e49f3aea40a78715c9cdc180d
+#	modified:   ChepeColombia/Library/metadata/b3/b3fedd50df123c243b4d86222eb7256b
+#	modified:   ChepeColombia/Library/metadata/b4/b4fc814a586e9294bac98ab57098c445
+#	modified:   ChepeColombia/Library/metadata/b6/b6433c3fbc7d92c4c8fbdfee49f5e1a0
+#	modified:   ChepeColombia/Library/metadata/bb/bb05a909fb4d10e4db6f32605ce20bf2
+#	modified:   ChepeColombia/Library/metadata/bb/bb1834cd675d6e546868bc22907141d4
+#	modified:   ChepeColombia/Library/metadata/be/be1679e19e5317a49a05e35e65aee812
+#	modified:   ChepeColombia/Library/metadata/c2/c23152d2bcb60aa4582e8819b5c0907b
+#	modified:   ChepeColombia/Library/metadata/c3/c3dabda4bfdf03046aeb60bfc57b0e54
+#	modified:   ChepeColombia/Library/metadata/c6/c6b65fbc59bfbb24ba36d7053b75777c
+#	modified:   ChepeColombia/Library/metadata/c8/c88b9ce41c18d3a4e9355e3451fecda9
+#	modified:   ChepeColombia/Library/metadata/ce/ce623f9b7fa3bf144994b60074171c46
+#	modified:   ChepeColombia/Library/metadata/cf/cf1a06d20b1162e4abafc1e869112ed2
+#	modified:   ChepeColombia/Library/metadata/d3/d300a63457739024793631385b1b1b6d
+#	modified:   ChepeColombia/Library/metadata/d3/d3944994589c4cd4380e86cf0cb332f1
+#	modified:   ChepeColombia/Library/metadata/db/db8ea4143730595459da32858e6f0f2b
+#	modified:   ChepeColombia/Library/metadata/dd/ddd8382290ef5b4498bccd963f117b09
+#	modified:   ChepeColombia/Library/metadata/de/dea8d07c080cfab44b283ae750151167
+#	modified:   ChepeColombia/Library/metadata/e0/e0b7f5ffad549c34db66d396fc528e98
+#	modified:   ChepeColombia/Library/metadata/e5/e518ad19c07d8a34d8c232399eb88545
+#	modified:   ChepeColombia/Library/metadata/e7/e72ffbc9d7583c2458e41b620191fbbb
+#	modified:   ChepeColombia/Library/metadata/ec/ecaba11c9a9c3c8459043bab9201d3e2
+#	modified:   ChepeColombia/Library/metadata/ed/ed5d6ab8dfbb0134a9ab111851c6c351
+#	modified:   ChepeColombia/Library/metadata/f8/f858429ece4241b4f8a51b038b8aac19
+#	modified:   ChepeColombia/Library/metadata/fa/fa7d069d381845845b9e25e67774e034
+#	modified:   ChepeColombia/Library/metadata/fe/fed2958c68a0672458875c87122b0b4c
+#
+
