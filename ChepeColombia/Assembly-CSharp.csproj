@@ -61,8 +61,10 @@
      <Compile Include="Assets\Scripts\MoverSerpientes.cs" />
      <Compile Include="Assets\Scripts\MuereCuervos.cs" />
      <Compile Include="Assets\Scripts\MuereSerpientes.cs" />
+     <Compile Include="Assets\Scripts\PasosSoundController.cs" />
      <Compile Include="Assets\Scripts\PicotazoCuervos.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\SaltoSoundController.cs" />
      <Compile Include="Assets\Scripts\SaludPlayer.cs" />
      <Compile Include="Assets\Scripts\ScoreController.cs" />
      <Compile Include="Assets\Scripts\VenenoSerpientes.cs" />

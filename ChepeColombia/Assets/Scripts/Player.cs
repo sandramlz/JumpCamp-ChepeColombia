@@ -38,6 +38,8 @@ public class Player : MonoBehaviour {
 	public GameObject Aventurero;
 	private float time = 0;
 
+
+
 	void Awake(){
 		animator = GetComponent<Animator>();
 	}
@@ -118,12 +120,18 @@ public class Player : MonoBehaviour {
 
 			rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x+1f, fuerzaSalto);
 
+			//GameObject soundController = GameObject.Find("SaltoSoundController");
+			//soundController.SendMessage("SaltoSound");
+
 			if(!dobleSalto && !enSuelo){
 				dobleSalto = true;
 			}
 		}
 		if (enSuelo  && Input.GetKey (KeyCode.RightArrow)) 
 		{
+			GameObject pasossoundController = GameObject.Find("PasosSoundController");
+			pasossoundController.SendMessage("PasosSound");
+
 			transform.Translate(new Vector3(velocidad * 5f * Time.deltaTime,0,0));
 			enSuelo=true;
 			animator.SetBool("isGrounded", enSuelo);
@@ -138,6 +146,9 @@ public class Player : MonoBehaviour {
 
 		if (enSuelo && Input.GetKey (KeyCode.LeftArrow)) 
 		{
+			GameObject pasossoundController = GameObject.Find("PasosSoundController");
+			pasossoundController.SendMessage("PasosSound");
+
 			transform.Translate(new Vector3(-velocidad * Time.deltaTime,0,0));
 			enSuelo=true;
 			animator.SetBool("isGrounded", enSuelo);
